@@ -1,8 +1,7 @@
 {
-  "id": "casinoheist-npcs",
-  "name": "casinoheist-npcs",
-  "title": "Casino Heist – NPCs",
-  "description": "A collection of NPCs for the Casino Heist campaign. Includes named staff, constructs, and adversaries.",
+  "id": "west-marches-campaign-stuff",
+  "title": "West Marches Campaign Stuff",
+  "description": "Custom module for West Marches campaign assets, hooks, and configurations.",
   "version": "1.0.0",
   "author": "Serelith-Varn",
   "compatibility": {
@@ -10,17 +9,17 @@
     "verified": "14"
   },
   "systems": ["dnd5e"],
-  "url": "https://github.com/Serelith-Varn/foundry-casino-heist-npcs",
-  "manifest": "https://raw.githubusercontent.com/Serelith-Varn/foundry-casino-heist-npcs/main/module.json",
-  "download": "https://github.com/Serelith-Varn/foundry-casino-heist-npcs/archive/refs/heads/main.zip",
+    "url": "https://github.com/Serelith-Varn/west-marches-campaign-stuff",
+  "manifest": "https://raw.githubusercontent.com/Serelith-Varn/west-marches-campaign-stuff/main/module.json",
+  "download": "https://github.com/Serelith-Varn/west-marches-campaign-stuff/archive/refs/heads/main.zip",
   "packs": [
     {
-      "name": "casinoheist-npcs",
-      "label": "Casino Heist – NPCs",
+      "name": "west-marches-actors",
+      "label": "West Marches Actors",
       "system": "dnd5e",
       "path": "packs/npcs.db",
       "type": "Actor",
-      "module": "casinoheist-npcs"
+      "module": "west-marches-campaign-stuff"
     }
   ]
 }
