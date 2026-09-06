@@ -2,7 +2,7 @@
   "id": "west-marches-campaign-stuff",
   "title": "West Marches Campaign Stuff",
   "description": "Custom module for West Marches campaign assets, hooks, and configurations.",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "author": "Serelith-Varn",
   "compatibility": {
     "minimum": "11",
@@ -14,8 +14,8 @@
   "download": "https://github.com/Serelith-Varn/west-marches-campaign-stuff/archive/refs/heads/main.zip",
   "packs": [
     {
-      "name": "west-marches-actors",
-      "label": "West Marches Actors",
+      "name": "west-marches-campaign-stuff",
+      "label": "West Marches Campaign Stuff",
       "system": "dnd5e",
       "path": "packs/npcs.db",
       "type": "Actor",
