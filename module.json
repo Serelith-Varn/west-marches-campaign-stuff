@@ -14,8 +14,8 @@
   "download": "https://github.com/Serelith-Varn/west-marches-campaign-stuff/archive/refs/heads/main.zip",
   "packs": [
     {
-      "name": "west-marches-actors",
-      "label": "West Marches Actors",
+      "name": "west-marches-campaign-stuff",
+      "label": "west-marches-campaign-stuff",
       "system": "dnd5e",
       "path": "packs/npcs.db",
       "type": "Actor",
