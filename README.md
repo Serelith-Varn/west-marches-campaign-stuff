@@ -13,7 +13,7 @@ A custom Foundry VTT module designed for West Marches campaign assets, compendiu
 4. Enable the module inside your active game world.
 
 ## Manifest URL
-  "manifest": "https://raw.githubusercontent.com/Serelith-Varn/west-marches-campaign-stuff/main/module.json"
+  "manifest": "[https://raw.githubusercontent.com/Serelith-Varn/west-marches-campaign-stuff/main/module.json](https://raw.githubusercontent.com/Serelith-Varn/west-marches-campaign-stuff/main/module.json)"
 
 ## 🔍 Usage
 
