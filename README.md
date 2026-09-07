@@ -35,8 +35,3 @@ For use with [Foundry VTT](https://foundryvtt.com) and D&D 5e 2024 campaigns
 ## 🚧 Development
 
 This repository is under active development. More NPCs, journals, and items to come.
-
-
-  "url": "https://github.com/Serelith-Varn/west-marches-campaign-stuff",
-  "manifest": "https://raw.githubusercontent.com/Serelith-Varn/west-marches-campaign-stuff/main/module.json",
-  "download": "https://github.com/Serelith-Varn/west-marches-campaign-stuff/archive/refs/heads/main.zip",
